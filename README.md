@@ -10,7 +10,7 @@
 
 5. config the redis
 // sudo nano /etc/redis/redis.conf
-
+  
 7. restart the redis
 // sudo systemctl restart redis
 
