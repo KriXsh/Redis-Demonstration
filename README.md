@@ -13,7 +13,7 @@
   
 7. restart the redis
 // sudo systemctl restart redis
-
+         
 9. enable the redis
 //sudo systemctl enable redis
 
